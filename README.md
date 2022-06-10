@@ -10,6 +10,15 @@ torch == 1.2.0
 链接: https://pan.baidu.com/s/1ncREw6Na9ycZptdxiVMApw   
 提取码: appk
 
+## 数据集下载
+
+试管数据集在百度网盘下载。
+
+链接：https://pan.baidu.com/s/1VxqhOStQb-8buYNgpfbdLA 
+提取码：fplp
+
+VOC2007数据集自行下载。
+
 ## 训练步骤
 
 1. 本文使用VOC格式进行训练。  
